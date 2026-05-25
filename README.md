@@ -442,4 +442,4 @@ int main() {
 
 
 ## RESULT:
-Thus, the program has been executed using CUDA to ________________.
+Thus, the program has been executed using CUDA to perform parallel sorting operations on the GPU and compare their performance with CPU-based sorting algorithms.
